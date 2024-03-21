@@ -1106,7 +1106,6 @@ assets.onestore.ms.akadns.net
 assets.onestore.ms.edgekey.net
 assuritystorage.blob.core.windows.net
 atar3a.msedge.net
-atlas.c10r.facebook.com
 atm.trafficmanager.net
 atm-fp-direct.office.com
 atm-settingsfe-prod-geo.trafficmanager.net
@@ -1577,7 +1576,6 @@ config-edge-skype.l-0007.l-msedge.net
 config-inmobi-comtm.trafficmanager.net
 config-inmobi-com-tm.trafficmanager.net
 config-teams.s-0005.s-msedge.net
-connect.facebook.net
 consentdeliveryfd.azurefd.net
 consumer-displaycatalogrp-aks2aks-uswest.md.mp.microsoft.com.akadns.net
 consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net
@@ -2317,7 +2315,6 @@ f46aa82b7b41690eee3f3906e8e1187b.clo.footprintdns.com
 f65fdd019c6b71777f9a59c85df1a389.clo.footprintdns.com
 f803557fdf135e8cd5e18cbd61343016.clo.footprintdns.com
 fa5c3a2c98d3327bd5c29168b7f95077.clo.footprintdns.com
-facebook.com
 faeac7c07a7d00268eced7fc2677ca6d.nrb.footprintdns.com
 fast.appcues.com
 fastg8.pool.iponweb.net
@@ -3610,7 +3607,6 @@ staging.to-do.officeppe.com
 standard.t-0001.t-msedge.net
 star-azureedge-prod.trafficmanager.net
 star-azurefd-prod.trafficmanager.net
-star-mini.c10r.facebook.com
 stas.outbrain.com
 static.2mdn.net
 static.78-46-223-24.clients.your-server.de
