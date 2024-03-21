@@ -2322,7 +2322,6 @@ faeac7c07a7d00268eced7fc2677ca6d.nrb.footprintdns.com
 fast.appcues.com
 fastg8.pool.iponweb.net
 fbb39cc5e8d47d7aae42dd901b10aa2e.nrb.footprintdns.com
-fbcdn.net
 fbsbx.com
 fd.api.iris.microsoft.com
 fd.api.iris.microsoft.comfd.api.iris.microsoft.com
@@ -3443,7 +3442,6 @@ scdn1f005.wpc.ad629.nucdn.net
 schemas.microsoft.akadns.net
 scl-mvp.trafficmanager.net
 sconsentit903.cloudapp.net
-scontent.xx.fbcdn.net
 scorecardresearch.com
 scrat-logs.vungle.akadns.net
 scx.akamaiedge.net
@@ -3617,7 +3615,6 @@ stas.outbrain.com
 static.2mdn.net
 static.78-46-223-24.clients.your-server.de
 static.cloudflareinsights.com
-static.xx.fbcdn.net
 static-ecst.licdn.com
 statics.teams.cdn.live.net
 statics-marketingsites-eus-ms-com.akamaized.net
